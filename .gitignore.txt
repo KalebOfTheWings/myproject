@@ -1,6 +1,0 @@
-/secrets
-passwords.txt
-text.txt
-*cat.txt
-cat.txt
-cat
