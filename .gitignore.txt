@@ -2,3 +2,4 @@
 passwords.txt
 text.txt
 text2.txt
+text
