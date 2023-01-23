@@ -1,1 +1,1 @@
-cat.txt
+*cat.txt
