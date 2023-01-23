@@ -1,2 +1,0 @@
-*cat.txt
-random.txt
